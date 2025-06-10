@@ -1,4 +1,4 @@
-from yt_dlp.extractor.common import InfoExtractor
+from .common import InfoExtractor
 import undetected_chromedriver as uc
 import urllib.parse
 import time
